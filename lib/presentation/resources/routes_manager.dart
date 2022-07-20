@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:matjar/presentation/forgot_password/forgot_password_view.dart';
 import 'package:matjar/presentation/home/home_view.dart';
 import 'package:matjar/presentation/login/login_view.dart';
-import 'package:matjar/presentation/onboarding/onboarding_view.dart';
+import 'package:matjar/presentation/onboarding/view/onboarding_view.dart';
 import 'package:matjar/presentation/register/register_view.dart';
 import 'package:matjar/presentation/resources/strings_manager.dart';
 import 'package:matjar/presentation/splash/splash_view.dart';
