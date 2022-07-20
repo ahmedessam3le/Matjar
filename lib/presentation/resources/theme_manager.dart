@@ -28,15 +28,15 @@ ThemeData lightTheme = ThemeData(
   // Text Theme
   textTheme: TextTheme(
     headlineLarge: semiBoldTextStyle(
-      fontSize: FontSize.sp16,
+      fontSize: FontSize.sp20,
       color: ColorManager.darkGreyColor,
     ),
     titleMedium: mediumTextStyle(
-      fontSize: FontSize.sp14,
+      fontSize: FontSize.sp16,
       color: ColorManager.lightGreyColor,
     ),
     bodyMedium: regularTextStyle(
-      fontSize: FontSize.sp14,
+      fontSize: FontSize.sp17,
       color: ColorManager.greyColor,
     ),
     bodyLarge: semiBoldTextStyle(
